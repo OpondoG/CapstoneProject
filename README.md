@@ -13,7 +13,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://opondog.github.io/CapstoneProject/))
+[Live Demo Link](https://opondog.github.io/CapstoneProject/)
 
 
 ## Authors

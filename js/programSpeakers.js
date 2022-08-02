@@ -2,7 +2,7 @@ const speakers = [{
         name: 'Okonjo Gilbert',
         profile: 'Group Chief Customer Officer',
         image: './assets/speaker_001.png',
-        description: 'President of consumer safety worldwide. Has over 10 yearf of experience leading customer experience teams.',
+        description: 'President of consumer safety worldwide. Has over 10 years of experience leading customer experience teams.',
     },
     {
         name: 'David Ogola',

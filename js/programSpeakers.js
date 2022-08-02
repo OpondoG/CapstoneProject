@@ -14,7 +14,7 @@ const speakers = [{
         name: 'Mathews Ogada',
         profile: 'Group CSO',
         image: './assets/speaker_003.png',
-        description: 'Has successfuly lead sales teams in her 15 years of career. She is exceptionally good at closing deals and has seen expansion of her company to open banches beyound africa.',
+        description: 'Has successfuly lead sales teams in her 15 years of career. He is exceptionally good at closing deals and has seen expansion of her company to open banches beyound africa.',
     },
     {
         name: 'Okonjo Tony',
@@ -26,13 +26,13 @@ const speakers = [{
         name: 'Brian KipKoech',
         profile: 'Chief Marketing Officer',
         image: './assets/speaker_005.png',
-        description: 'She has a wealth of experience in the  social-media marketing. He has singlehandedly led the brand awareness of her comapny and they are the leaders in the banking industry in Kenya',
+        description: 'He has a wealth of experience in the  social-media marketing. He has singlehandedly led the brand awareness of her comapny and they are the leaders in the banking industry in Kenya',
     },
     {
         name: 'Stanley Chinedu',
         profile: 'Global Chief Technology Officer',
         image: './assets/speaker_006.png',
-        description: 'The 2020 winner of the most coveted EastAfrican HerNovation award. Global tech leader in the banking industry.',
+        description: 'The 2020 winner of the most coveted EastAfrican HisNovation award. Global tech leader in the banking industry.',
     },
 ];
 

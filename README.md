@@ -16,12 +16,9 @@
 [Live Demo Link](https://opondog.github.io/CapstoneProject/)
 
 
-## Authors
-
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://twitter.com/Kengele10)
-- Twitter: [@twitterhandle](https://twitter.com/Kengele10)
+- GitHub: [@githubhandle](https://github.com/OpondoG)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/gilbert-okonjo-2081331b9/)
 
 

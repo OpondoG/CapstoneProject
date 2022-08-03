@@ -148,7 +148,7 @@ img {
 }
 
 .program-about {
-  color: rgb(255, 255, 255);
+  color: #15d053;
   font-size: 0.75em;
   font-family: 'lato', sans-serif;
   text-align: center;
@@ -522,20 +522,19 @@ footer {
     margin: 20px 20% 0 20%;
     font-weight: 400;
     font-size: 24px;
-    color: #272a31;
+    color: #fff;
   }
 
-  #hambuger {
-    display: none;
-  }
-
+  /* #hambuger {
+        display: none;
+    } */
   .header {
     display: block;
   }
 
   .nav-top {
     background-color: #272a31;
-    color: white;
+    color: #fff;
     list-style: none;
     display: flex;
     justify-content: flex-end;

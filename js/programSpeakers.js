@@ -44,7 +44,7 @@ speakers.forEach((element) => {
       <div class="major"
         <div class="parent">
         <img src="./assets/chessBoard.svg" class="dev-bg-tiles" alt="chess" />
-          <img src="${element.image}" alt="" class="developer-image" />
+          <img src="${element.image}" alt="speaker" class="developer-image" />
         </div>
         <div class="developer-info">
           <h3 class="developer-name">${element.name}</h3>

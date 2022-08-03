@@ -16,6 +16,7 @@ const speakers = [{
         image: './assets/speaker_003.png',
         description: 'Has successfuly lead sales teams in his 15 years of career. He is exceptionally good at closing deals and has seen expansion of his company to open banches beyound africa.',
     },
+
     {
         name: 'Okonjo Tony',
         profile: 'Yamagata Motors CEO',
@@ -35,6 +36,7 @@ const speakers = [{
         description: 'The 2020 winner of the most coveted EastAfrican HisNovation award. Global tech leader in the banking industry.',
     },
 ];
+
 
 speakers.forEach((element) => {
     const speakers = document.querySelector('.grid');

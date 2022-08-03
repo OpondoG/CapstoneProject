@@ -29,7 +29,7 @@ const speakers = [{
         description: 'He has a wealth of experience in the  social-media marketing. He has singlehandedly led the brand awareness of his comapny and they are the leaders in the banking industry in Kenya',
     },
     {
-        name: 'Stanley Chinedu',
+        name: 'Ben Henry',
         profile: 'Global Chief Technology Officer',
         image: './assets/speaker_006.png',
         description: 'The 2020 winner of the most coveted EastAfrican HisNovation award. Global tech leader in the banking industry.',

@@ -11,12 +11,12 @@
 - CSS
 - JavaScript
 
-## Live Demo (if available)
+**Live Demo**
 
 [Live Demo Link](https://opondog.github.io/CapstoneProject/)
 
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/OpondoG)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/gilbert-okonjo-2081331b9/)

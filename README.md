@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Capstone Project
 
 > In this first capstone project, I have built an online website for a leadership conference..
 
@@ -11,17 +11,14 @@
 - CSS
 - JavaScript
 
-## Live Demo (if available)
+**Live Demo**
 
 [Live Demo Link](https://opondog.github.io/CapstoneProject/)
 
 
-## Authors
+👤 **Author**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://twitter.com/Kengele10)
-- Twitter: [@twitterhandle](https://twitter.com/Kengele10)
+- GitHub: [@githubhandle](https://github.com/OpondoG)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/gilbert-okonjo-2081331b9/)
 
 
